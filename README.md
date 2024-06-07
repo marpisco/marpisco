@@ -60,3 +60,7 @@
 </div>
 
 ###
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.wallpaperhub.app/cloudcache/1/9/d/3/4/1/19d3413f11b4fefd4390e0c16273a9836452f3fb.png');]{x0000}$}
