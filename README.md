@@ -63,12 +63,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/marpisco/marpisco/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Hope that something in my GitHub Profile can help you with whatever you need. Thank you for visiting!</p>
 
 ###
