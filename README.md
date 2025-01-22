@@ -72,3 +72,12 @@
 </div>
 
 ###
+
+## PGP Keys
+To differ between my School-related commits (aka done through my school computer) and my personal related commits, you may use the GPG key to compare.
+
+4A0559A4D1C67E7D (marco@marcopisco.com) - Personal Commit done through my personal computer
+
+3E4A88A90144973D (a11531@aejics.org) - School related Commit done through my school computer (or a personal commit done quickly in my school computer).
+
+Any other keys that publish ARE NOT MINE. I usually don't use the GitHub web portal to commit (unless it's a really small commit like the one for this text).
