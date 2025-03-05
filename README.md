@@ -7,6 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marpisco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 <img src="https://wakatime.com/badge/user/018d1ca2-c71c-4a63-af60-c79507e422b4.svg">
 </div>
+
 ###
 
 <p align="left">I'm a Student from Portugal. I work with a lot of stuff, for example:</p>
