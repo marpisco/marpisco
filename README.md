@@ -53,6 +53,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="30" alt="premierepro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="Photoshop logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/csharp/csharp-original.svg" height="30" alt="C# logo" />
+  <img width="12" />
+  <img src="https://www.spacedata.eu/wp-content/uploads/2017/02/logo-primavera.jpg" height="30" alt="Primavera ERP logo" />
 </div>
 
 ###
