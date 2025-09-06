@@ -73,12 +73,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/marpisco/count.svg?"  />
-</div>
-
-###
-
 ## PGP Keys
 4A0559A4D1C67E7D (marco@marcopisco.com)
 
