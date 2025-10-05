@@ -73,7 +73,7 @@
 
 ###
 
-## PGP Keys
-*temporarily not using GPG for personal commits due to OS reinstall* (marco@marcopisco.com)
+## GPG Keys
+79DC6EE36C4A2514 (marco@marcopisco.com)
 
 3E4A88A90144973D (a11531@aejics.org)
