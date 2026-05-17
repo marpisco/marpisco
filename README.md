@@ -1,4 +1,3 @@
-<img width="10" src="https://github.com/user-attachments/assets/a2340829-0afc-4807-8f03-29571859d6ba" />
 <div align="center"><h2>Hi 👋! I'm Marco.</h2></div>
 
 <p align="center">I'm a Student from Portugal. I work with a lot of stuff on my day-to-day.</p>
@@ -6,9 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=marpisco&theme=dark" height="150" alt="streal"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marpisco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  
+  <img src="https://streak-stats.demolab.com/?user=marpisco&theme=dark" height="150" alt="streal"  />  
 <a href="https://wakatime.com/marcopisco"><img src="https://wakatime.com/badge/user/018d1ca2-c71c-4a63-af60-c79507e422b4.svg"></a>
 </div>
 
