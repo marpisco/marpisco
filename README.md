@@ -6,7 +6,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=marpisco&theme=dark" height="150" alt="streal"  />  
-<a href="https://wakatime.com/marcopisco"><img src="https://wakatime.com/badge/user/018d1ca2-c71c-4a63-af60-c79507e422b4.svg"></a>
+
+  <a href="https://wakatime.com/marcopisco"><img src="https://wakatime.com/badge/user/018d1ca2-c71c-4a63-af60-c79507e422b4.svg"></a>
 </div>
 
 ## 📊 Development breakdown
