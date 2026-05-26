@@ -35,7 +35,7 @@ JavaScript   0 secs                ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 18 January 2024 - To: 24 May 2026
+From: 18 January 2024 - To: 25 May 2026
 
 Total Time: 455 hrs 15 mins
 
