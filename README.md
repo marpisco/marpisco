@@ -39,7 +39,7 @@ Bash              5 mins                ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 18 January 2024 - To: 15 June 2026
+From: 18 January 2024 - To: 16 June 2026
 
 Total Time: 469 hrs 30 mins
 
