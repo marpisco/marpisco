@@ -30,7 +30,7 @@ No activity tracked
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 18 January 2024 - To: 01 July 2026
+From: 18 January 2024 - To: 02 July 2026
 
 Total Time: 473 hrs 25 mins
 
