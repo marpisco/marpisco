@@ -39,7 +39,7 @@ VB.NET        20 mins               ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:wakaAT-->
 
 ```rust
-From: 18 January 2024 - To: 21 August 2026
+From: 18 January 2024 - To: 22 August 2026
 
 Total Time: 584 hrs 29 mins
 
